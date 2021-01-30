@@ -11,6 +11,7 @@
 deploy.xml
 manifest.xml
 suitecloud.config.js
+project.json
 
 # Dependency directories
 node_modules
