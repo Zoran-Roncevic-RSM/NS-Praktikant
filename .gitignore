@@ -8,6 +8,9 @@
 .settings
 *.sublime-workspace
 .vscode
+deploy.xml
+manifest.xml
+suitecloud.config.js
 
 # Dependency directories
 node_modules
