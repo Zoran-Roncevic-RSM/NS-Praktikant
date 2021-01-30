@@ -1,14 +1,14 @@
 <restlet scriptid="customscript_snt_rl_record">
     <description></description>
     <isinactive>F</isinactive>
-    <name>Restlet Get Table</name>
+    <name>Restlet Record</name>
     <notifyadmins>F</notifyadmins>
     <notifyemails></notifyemails>
     <notifyowner>F</notifyowner>
     <notifyuser>F</notifyuser>
     <scriptfile>[/SuiteScripts/DEMO/snt_rl_record.js]</scriptfile>
     <scriptdeployments>
-        <scriptdeployment scriptid="customdeploy_snt_rl_get_table">
+        <scriptdeployment scriptid="customdeploy_snt_rl_record">
             <allemployees>T</allemployees>
             <allpartners>T</allpartners>
             <allroles>T</allroles>
