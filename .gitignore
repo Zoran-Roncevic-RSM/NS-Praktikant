@@ -12,6 +12,7 @@ manifest.xml
 deploy.xml
 suitecloud.config.js
 project.json
+.attr.xml
 
 # Dependency directories
 node_modules
