@@ -6,7 +6,7 @@
   <notifyemails></notifyemails>
   <notifyowner>F</notifyowner>
   <notifyuser>F</notifyuser>
-  <scriptfile>[/SuiteScripts/INFS/CRM2ERP/snt_ss_table.js]</scriptfile>
+  <scriptfile>[/SuiteScripts/DEMO/snt_ss_table.js]</scriptfile>
   <scriptdeployments>
     <scriptdeployment scriptid="customdeploy_snt_rl_get_table">
       <allemployees>F</allemployees>
@@ -14,9 +14,9 @@
       <allroles>T</allroles>
       <audslctrole></audslctrole>
       <isdeployed>T</isdeployed>
-      <loglevel>ERROR</loglevel>
+      <loglevel>DEBUG</loglevel>
       <status>RELEASED</status>
-      <title>INFS : Restlet Get Table</title>
+      <title>Restlet Get Table</title>
     </scriptdeployment>
   </scriptdeployments>
 </restlet>

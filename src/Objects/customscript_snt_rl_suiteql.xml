@@ -1,12 +1,12 @@
 <restlet scriptid="customscript_snt_rl_suiteql">
   <description></description>
   <isinactive>F</isinactive>
-  <name>INFS : Restlet SuiteQL</name>
+  <name>Restlet SuiteQL</name>
   <notifyadmins>F</notifyadmins>
   <notifyemails></notifyemails>
   <notifyowner>T</notifyowner>
   <notifyuser>F</notifyuser>
-  <scriptfile>[/SuiteScripts/INFS/snt_rl_suiteql.js]</scriptfile>
+  <scriptfile>[/SuiteScripts/DEMO/snt_rl_suiteql.js]</scriptfile>
   <scriptdeployments>
     <scriptdeployment scriptid="customdeploy_snt_rl_suiteql">
       <allemployees>F</allemployees>
@@ -16,7 +16,7 @@
       <isdeployed>T</isdeployed>
       <loglevel>DEBUG</loglevel>
       <status>RELEASED</status>
-      <title>INFS : Restlet SuiteQL</title>
+      <title>Restlet SuiteQL</title>
     </scriptdeployment>
   </scriptdeployments>
 </restlet>
