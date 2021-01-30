@@ -8,6 +8,8 @@
 .settings
 *.sublime-workspace
 .vscode
+manifest.xml
+deploy.xml
 suitecloud.config.js
 project.json
 
