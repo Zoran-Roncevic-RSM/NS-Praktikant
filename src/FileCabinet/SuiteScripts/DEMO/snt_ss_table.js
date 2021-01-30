@@ -17,7 +17,7 @@ function(search) {
      * @since 2015.1
      */
     function doGet(requestParams) {
-
+		return "Hello From ss_table"
     }
 
     /**
@@ -91,7 +91,7 @@ function(search) {
     }
 
     return {
-        //'get': doGet,
+        'get': doGet,
         //put: doPut,
         post: doPost
         //'delete': doDelete

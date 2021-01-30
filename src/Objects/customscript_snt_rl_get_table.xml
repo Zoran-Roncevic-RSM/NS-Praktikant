@@ -1,7 +1,7 @@
 <restlet scriptid="customscript_snt_rl_get_table">
   <description></description>
   <isinactive>F</isinactive>
-  <name>INFS : Restlet Get Table</name>
+  <name>Restlet Get Table</name>
   <notifyadmins>F</notifyadmins>
   <notifyemails></notifyemails>
   <notifyowner>F</notifyowner>
@@ -9,8 +9,8 @@
   <scriptfile>[/SuiteScripts/DEMO/snt_ss_table.js]</scriptfile>
   <scriptdeployments>
     <scriptdeployment scriptid="customdeploy_snt_rl_get_table">
-      <allemployees>F</allemployees>
-      <allpartners>F</allpartners>
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
       <allroles>T</allroles>
       <audslctrole></audslctrole>
       <isdeployed>T</isdeployed>

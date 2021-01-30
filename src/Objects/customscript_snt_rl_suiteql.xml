@@ -9,8 +9,8 @@
   <scriptfile>[/SuiteScripts/DEMO/snt_rl_suiteql.js]</scriptfile>
   <scriptdeployments>
     <scriptdeployment scriptid="customdeploy_snt_rl_suiteql">
-      <allemployees>F</allemployees>
-      <allpartners>F</allpartners>
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
       <allroles>T</allroles>
       <audslctrole></audslctrole>
       <isdeployed>T</isdeployed>
